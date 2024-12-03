@@ -3,4 +3,5 @@
 
 
 https://github.com/3067701293/test_photo/raw/main/wallhaven-r2l55j.jpg
-![[https://github.com/3067701293/test_photo/blob/main/wallhaven-r2l55j.jpg]]
+![wallhaven](https://github.com/3067701293/test_photo/raw/main/wallhaven-r2l55j.jpg)
+
